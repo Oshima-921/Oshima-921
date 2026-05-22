@@ -21,12 +21,32 @@
 
 ## Core Expertise
 
-| Area | Focus |
-| --- | --- |
-| Frontend | React, Bootstrap, responsive UI, and interaction design |
-| Backend | PHP, Laravel, Node.js, Express, and REST APIs |
-| Data | MySQL and MongoDB schema design for production apps |
-| Engineering | Clean architecture, maintainability, and fast iteration |
+<table width="100%">
+  <thead>
+    <tr>
+      <th align="left" width="22%">Area</th>
+      <th align="left">Focus</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td valign="top"><strong>Frontend</strong></td>
+      <td>React, Bootstrap, responsive UI, and interaction design</td>
+    </tr>
+    <tr>
+      <td valign="top"><strong>Backend</strong></td>
+      <td>PHP, Laravel, Node.js, Express, and REST APIs</td>
+    </tr>
+    <tr>
+      <td valign="top"><strong>Data</strong></td>
+      <td>MySQL and MongoDB schema design for production apps</td>
+    </tr>
+    <tr>
+      <td valign="top"><strong>Engineering</strong></td>
+      <td>Clean architecture, maintainability, and fast iteration</td>
+    </tr>
+  </tbody>
+</table>
 
 <br/>
 
@@ -36,30 +56,42 @@
 
 **Frontend**
 
+<br/>
+
 <p>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="56" width="56" alt="HTML5" title="HTML5"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="56" width="56" alt="CSS3" title="CSS3"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="56" width="56" alt="JavaScript" title="JavaScript"/></a>
-  <a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="56" width="56" alt="React" title="React"/></a>
-  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="56" width="56" alt="Bootstrap" title="Bootstrap"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer" style="display: inline-block; margin: 0 16px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="56" width="56" alt="HTML5" title="HTML5"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer" style="display: inline-block; margin: 0 16px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="56" width="56" alt="CSS3" title="CSS3"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="display: inline-block; margin: 0 16px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="56" width="56" alt="JavaScript" title="JavaScript"/></a>
+  <a href="https://react.dev/" target="_blank" rel="noreferrer" style="display: inline-block; margin: 0 16px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="56" width="56" alt="React" title="React"/></a>
+  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer" style="display: inline-block; margin: 0 16px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="56" width="56" alt="Bootstrap" title="Bootstrap"/></a>
 </p>
+
+<br/>
 
 **Backend**
 
+<br/>
+
 <p>
-  <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="56" width="56" alt="PHP" title="PHP"/></a>
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="56" width="56" alt="Laravel" title="Laravel"/></a>
-  <a href="https://codeigniter.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" height="56" width="56" alt="CodeIgniter" title="CodeIgniter"/></a>
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="56" width="56" alt="Node.js" title="Node.js"/></a>
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="56" width="56" alt="Express" title="Express"/></a>
+  <a href="https://www.php.net/" target="_blank" rel="noreferrer" style="display: inline-block; margin: 0 16px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="56" width="56" alt="PHP" title="PHP"/></a>
+  <a href="https://laravel.com/" target="_blank" rel="noreferrer" style="display: inline-block; margin: 0 16px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="56" width="56" alt="Laravel" title="Laravel"/></a>
+  <a href="https://codeigniter.com/" target="_blank" rel="noreferrer" style="display: inline-block; margin: 0 16px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" height="56" width="56" alt="CodeIgniter" title="CodeIgniter"/></a>
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer" style="display: inline-block; margin: 0 16px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="56" width="56" alt="Node.js" title="Node.js"/></a>
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer" style="display: inline-block; margin: 0 16px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="56" width="56" alt="Express" title="Express"/></a>
 </p>
+
+<br/>
 
 **Database**
 
+<br/>
+
 <p>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="56" width="56" alt="MySQL" title="MySQL"/></a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="56" width="56" alt="MongoDB" title="MongoDB"/></a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" style="display: inline-block; margin: 0 16px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="56" width="56" alt="MySQL" title="MySQL"/></a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer" style="display: inline-block; margin: 0 16px;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="56" width="56" alt="MongoDB" title="MongoDB"/></a>
 </p>
+
+<br/>
 
 </div>
 
