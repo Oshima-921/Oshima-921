@@ -109,9 +109,8 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=Oshima-921&show_icons=true&theme=tokyonight&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" alt="GitHub stats for Oshima-921" />
-<img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Oshima-921&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&title_color=58A6FF&text_color=c9d1d9" alt="Top languages for Oshima-921" />
-<img height="170" src="https://streak-stats.demolab.com?user=Oshima-921&theme=tokyonight&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub streak for Oshima-921" />
+<img height="180" src="https://github-readme-stats-fast.vercel.app/api?username=Oshima-921&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=false&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" alt="GitHub stats for Oshima-921" />
+<img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Oshima-921&theme=tokyonight&hide_border=true&layout=compact&langs_count=4&hide=Yacc,HTML&exclude_repo=Oshima-921&title_color=58A6FF&text_color=c9d1d9" alt="Top languages for Oshima-921" />
 
 </div>
 
