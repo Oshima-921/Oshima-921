@@ -105,6 +105,16 @@
 
 <br/>
 
+## Achievements
+
+<div align="center">
+
+🐳 🐳 🐳 • 🪙 🪙 🪙 • 💎 • 😄 • ❤️ • 🟣 • 🏆
+
+</div>
+
+<br/>
+
 ## GitHub Activity
 
 <div align="center">
