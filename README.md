@@ -109,7 +109,19 @@
 
 <div align="center">
 
-🐳 🐳 🐳 • 🪙 🪙 🪙 • 💎 • 😄 • ❤️ • 🟣 • 🏆
+<sub>Official badges appear on your <a href="https://github.com/Oshima-921?tab=achievements">GitHub profile</a> when unlocked. See <a href="docs/EARN_ACHIEVEMENTS.md">how to earn each one</a>.</sub>
+
+<br/>
+
+<p>
+  <a href="https://github.com/Oshima-921?achievement=pull-shark&tab=achievements" style="display: inline-block; margin: 0 12px;"><img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/tiers/pull-shark-silver.png" height="100" alt="Pull Shark" title="Pull Shark"/></a>
+  <a href="https://github.com/Oshima-921?achievement=pair-extraordinaire&tab=achievements" style="display: inline-block; margin: 0 12px;"><img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/tiers/pair-extraordinaire-silver.png" height="100" alt="Pair Extraordinaire" title="Pair Extraordinaire"/></a>
+  <a href="https://github.com/Oshima-921?achievement=public-sponsor&tab=achievements" style="display: inline-block; margin: 0 12px;"><img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/public-sponsor-default.png" height="100" alt="Public Sponsor" title="Public Sponsor"/></a>
+  <a href="https://github.com/Oshima-921?achievement=starstruck&tab=achievements" style="display: inline-block; margin: 0 12px;"><img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/starstruck-default.png" height="100" alt="Starstruck" title="Starstruck"/></a>
+  <a href="https://github.com/Oshima-921?achievement=yolo&tab=achievements" style="display: inline-block; margin: 0 12px;"><img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/yolo-default.png" height="100" alt="YOLO" title="YOLO"/></a>
+  <a href="https://github.com/Oshima-921?achievement=galaxy-brain&tab=achievements" style="display: inline-block; margin: 0 12px;"><img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/galaxy-brain-default.png" height="100" alt="Galaxy Brain" title="Galaxy Brain"/></a>
+  <a href="https://github.com/Oshima-921?achievement=quickdraw&tab=achievements" style="display: inline-block; margin: 0 12px;"><img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/quickdraw-default.png" height="100" alt="Quickdraw" title="Quickdraw"/></a>
+</p>
 
 </div>
 
