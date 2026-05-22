@@ -1,5 +1,7 @@
 ﻿# Hi, I'm Ryota Oshima 👋
 
+**GitHub:** [@Oshima-921](https://github.com/Oshima-921)
+
 Full stack web engineer based in Niigata, Japan 🇯🇵
 
 I build performant, user-friendly applications with strong frontend design and stable backend architecture.
@@ -56,9 +58,14 @@ I build performant, user-friendly applications with strong frontend design and s
 
 ## 📬 Let’s Connect
 
-[![Telegram](https://img.shields.io/badge/Telegram-@hades02921-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/hades02921)
-[![Discord](https://img.shields.io/badge/Discord-hasegawa921-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/@hades.)
+| Platform | Username / Handle |
+| --- | --- |
+| GitHub | [@Oshima-921](https://github.com/Oshima-921) |
+| Telegram | [@hades02921](https://t.me/hades02921) |
+| Discord | `hasegawa921` |
 
 ---
 
-![Ryota's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryotaoshima&show_icons=true&theme=dark&hide_border=true)
+## 📊 GitHub Stats
+
+![GitHub stats for Oshima-921](https://github-readme-stats-fast.vercel.app/api?username=Oshima-921&show_icons=true&theme=dark&hide_border=true)
