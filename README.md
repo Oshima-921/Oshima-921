@@ -1,27 +1,42 @@
-﻿# Hi, I'm Ryota Oshima 👋
+﻿<div align="center">
 
-**GitHub:** [@Oshima-921](https://github.com/Oshima-921)
+# Hi, I'm Ryota Oshima 👋
 
-Full stack web engineer based in Niigata, Japan 🇯🇵
+[![GitHub](https://img.shields.io/badge/GitHub-@Oshima--921-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Oshima-921)
+[![Location](https://img.shields.io/badge/Location-Niigata,_Japan-0A84FF?style=for-the-badge)](https://github.com/Oshima-921)
+[![Role](https://img.shields.io/badge/Role-Full_Stack_Engineer-6E40C9?style=for-the-badge)](https://github.com/Oshima-921)
 
-I build performant, user-friendly applications with strong frontend design and stable backend architecture.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Engineer;Based+in+Niigata%2C+Japan;Building+performant+%26+user-friendly+apps" alt="Typing intro" />
 
----
-
-## 🔹 Core Expertise
-
-- Modern frontend development with React, Bootstrap, and responsive UI
-- API-driven backend systems using PHP, Laravel, Node.js, and Express
-- Database design with MySQL and MongoDB for production-ready apps
-- Clean code, maintainable architecture, and fast iteration
+</div>
 
 ---
 
-## 🧰 Tech Stack
+## About Me
 
-### Frontend
+> Full stack web engineer focused on polished frontends and stable backend architecture.
+> I care about clean code, maintainability, and shipping products that feel great to use.
 
-<p align="left">
+<br/>
+
+## Core Expertise
+
+| Area | Focus |
+| --- | --- |
+| Frontend | React, Bootstrap, responsive UI, and interaction design |
+| Backend | PHP, Laravel, Node.js, Express, and REST APIs |
+| Data | MySQL and MongoDB schema design for production apps |
+| Engineering | Clean architecture, maintainability, and fast iteration |
+
+<br/>
+
+## Tech Stack
+
+<div align="center">
+
+**Frontend**
+
+<p>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="56" width="56" alt="HTML5" title="HTML5"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="56" width="56" alt="CSS3" title="CSS3"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="56" width="56" alt="JavaScript" title="JavaScript"/></a>
@@ -29,9 +44,9 @@ I build performant, user-friendly applications with strong frontend design and s
   <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="56" width="56" alt="Bootstrap" title="Bootstrap"/></a>
 </p>
 
-### Backend
+**Backend**
 
-<p align="left">
+<p>
   <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="56" width="56" alt="PHP" title="PHP"/></a>
   <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="56" width="56" alt="Laravel" title="Laravel"/></a>
   <a href="https://codeigniter.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" height="56" width="56" alt="CodeIgniter" title="CodeIgniter"/></a>
@@ -39,33 +54,51 @@ I build performant, user-friendly applications with strong frontend design and s
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="56" width="56" alt="Express" title="Express"/></a>
 </p>
 
-### Database
+**Database**
 
-<p align="left">
+<p>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="56" width="56" alt="MySQL" title="MySQL"/></a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="56" width="56" alt="MongoDB" title="MongoDB"/></a>
 </p>
 
----
+</div>
 
-## 📈 Professional Summary
+<br/>
 
-- Built frontend experiences with polished interactions and responsive layouts
+## Highlights
+
+- Built responsive frontends with polished interactions and clean UI structure
 - Developed backend services with REST APIs, authentication, and database integrations
 - Delivered projects that balance performance, maintainability, and design quality
 
----
+<br/>
 
-## 📬 Let’s Connect
+## GitHub Activity
 
-| Platform | Username / Handle |
-| --- | --- |
-| GitHub | [@Oshima-921](https://github.com/Oshima-921) |
-| Telegram | [@hades02921](https://t.me/hades02921) |
-| Discord | `hasegawa921` |
+<div align="center">
 
----
+<img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=Oshima-921&show_icons=true&theme=tokyonight&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" alt="GitHub stats for Oshima-921" />
+<img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Oshima-921&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&title_color=58A6FF&text_color=c9d1d9" alt="Top languages for Oshima-921" />
+<img height="170" src="https://streak-stats.demolab.com?user=Oshima-921&theme=tokyonight&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub streak for Oshima-921" />
 
-## 📊 GitHub Stats
+</div>
 
-![GitHub stats for Oshima-921](https://github-readme-stats-fast.vercel.app/api?username=Oshima-921&show_icons=true&theme=dark&hide_border=true)
+<br/>
+
+## Let's Connect
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-@Oshima--921-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Oshima-921)
+[![Telegram](https://img.shields.io/badge/Telegram-@hades02921-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/hades02921)
+[![Discord](https://img.shields.io/badge/Discord-hasegawa921-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<sub>Open to collaboration — feel free to reach out anytime.</sub>
+
+</div>
