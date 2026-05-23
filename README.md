@@ -54,81 +54,40 @@
 
 <div align="center">
 
-<style>
-  .skills-wrap {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    align-items: center;
-    gap: 28px;
-    margin: 12px 0 28px;
-  }
-  .skill-badge {
-    display: inline-flex;
-    align-items: center;
-    justify-content: center;
-    width: 96px;
-    height: 96px;
-    background: linear-gradient(145deg, #1c2128 0%, #161b22 100%);
-    border: 1px solid #30363d;
-    border-radius: 18px;
-    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.35);
-    transition: transform 0.35s cubic-bezier(0.34, 1.56, 0.64, 1), box-shadow 0.35s ease, border-color 0.35s ease;
-    animation: skill-float 5s ease-in-out infinite;
-  }
-  .skill-badge img {
-    width: 72px;
-    height: 72px;
-    filter: drop-shadow(0 4px 8px rgba(0, 0, 0, 0.25));
-    transition: transform 0.35s cubic-bezier(0.34, 1.56, 0.64, 1);
-  }
-  .skill-badge:hover {
-    transform: translateY(-10px) scale(1.08);
-    border-color: #58a6ff;
-    box-shadow: 0 16px 36px rgba(88, 166, 255, 0.28);
-    animation-play-state: paused;
-  }
-  .skill-badge:hover img {
-    transform: scale(1.1) rotate(-4deg);
-  }
-  .skill-badge:nth-child(1) { animation-delay: 0s; }
-  .skill-badge:nth-child(2) { animation-delay: 0.35s; }
-  .skill-badge:nth-child(3) { animation-delay: 0.7s; }
-  .skill-badge:nth-child(4) { animation-delay: 1.05s; }
-  .skill-badge:nth-child(5) { animation-delay: 1.4s; }
-  .skill-badge:nth-child(6) { animation-delay: 1.75s; }
-  @keyframes skill-float {
-    0%, 100% { transform: translateY(0); }
-    50% { transform: translateY(-8px); }
-  }
-</style>
-
 **Frontend**
 
-<div class="skills-wrap">
-  <a class="skill-badge" href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer" title="HTML5"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5"/></a>
-  <a class="skill-badge" href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer" title="CSS3"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3"/></a>
-  <a class="skill-badge" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" title="JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript"/></a>
-  <a class="skill-badge" href="https://react.dev/" target="_blank" rel="noreferrer" title="React"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React"/></a>
-  <a class="skill-badge" href="https://getbootstrap.com/" target="_blank" rel="noreferrer" title="Bootstrap"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap"/></a>
-</div>
+<p align="center">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=html&theme=dark" width="84" height="84" alt="HTML5" style="margin: 0 28px 20px;"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=css&theme=dark" width="84" height="84" alt="CSS3" style="margin: 0 28px 20px;"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=js&theme=dark" width="84" height="84" alt="JavaScript" style="margin: 0 28px 20px;"/></a>
+  <a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=react&theme=dark" width="84" height="84" alt="React" style="margin: 0 28px 20px;"/></a>
+  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" width="84" height="84" alt="Bootstrap" style="margin: 0 28px 20px;"/></a>
+</p>
+
+<br/>
 
 **Backend**
 
-<div class="skills-wrap">
-  <a class="skill-badge" href="https://www.php.net/" target="_blank" rel="noreferrer" title="PHP"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP"/></a>
-  <a class="skill-badge" href="https://laravel.com/" target="_blank" rel="noreferrer" title="Laravel"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="Laravel"/></a>
-  <a class="skill-badge" href="https://codeigniter.com/" target="_blank" rel="noreferrer" title="CodeIgniter"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" alt="CodeIgniter"/></a>
-  <a class="skill-badge" href="https://nodejs.org/" target="_blank" rel="noreferrer" title="Node.js"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js"/></a>
-  <a class="skill-badge" href="https://expressjs.com/" target="_blank" rel="noreferrer" title="Express"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" alt="Express"/></a>
-</div>
+<p align="center">
+  <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=php&theme=dark" width="84" height="84" alt="PHP" style="margin: 0 28px 20px;"/></a>
+  <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=laravel&theme=dark" width="84" height="84" alt="Laravel" style="margin: 0 28px 20px;"/></a>
+  <a href="https://codeigniter.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" width="52" height="52" alt="CodeIgniter" style="margin: 0 28px 20px; padding: 16px; background-color: #21262d; border: 1px solid #30363d; border-radius: 16px; box-shadow: 0 8px 24px rgba(0,0,0,0.35);"/></a>
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="84" height="84" alt="Node.js" style="margin: 0 28px 20px;"/></a>
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=express&theme=dark" width="84" height="84" alt="Express" style="margin: 0 28px 20px;"/></a>
+</p>
+
+<br/>
 
 **Database**
 
-<div class="skills-wrap">
-  <a class="skill-badge" href="https://www.mysql.com/" target="_blank" rel="noreferrer" title="MySQL"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL"/></a>
-  <a class="skill-badge" href="https://www.mongodb.com/" target="_blank" rel="noreferrer" title="MongoDB"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB"/></a>
-</div>
+<p align="center">
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="84" height="84" alt="MySQL" style="margin: 0 28px 20px;"/></a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="84" height="84" alt="MongoDB" style="margin: 0 28px 20px;"/></a>
+</p>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:21262d,50:58a6ff,100:21262d&height=100&section=footer" width="100%" alt=""/>
 
 </div>
 
