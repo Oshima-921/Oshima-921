@@ -27,11 +27,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=1e3a5f&height=48&section=header&text=Core%20Expertise&fontSize=20&fontColor=ffffff&animation=scaleIn" width="100%" alt="Core Expertise"/>
 
-<table width="100%">
+<table width="100%" cellpadding="8" cellspacing="0" style="border-collapse: collapse; table-layout: auto;">
   <thead>
     <tr>
-      <th align="left" width="22%">Area</th>
-      <th align="left">Focus</th>
+      <th align="left" width="15%">Area</th>
+      <th align="left" width="85%">Focus</th>
     </tr>
   </thead>
   <tbody>
