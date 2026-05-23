@@ -75,7 +75,7 @@
 <p align="center">
   <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=php&theme=dark" width="84" height="84" alt="PHP" style="margin: 0 28px 20px;"/></a>
   <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=laravel&theme=dark" width="84" height="84" alt="Laravel" style="margin: 0 28px 20px;"/></a>
-  <a href="https://codeigniter.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" width="52" height="52" alt="CodeIgniter" style="margin: 0 28px 20px; padding: 16px; background-color: #21262d; border: 1px solid #30363d; border-radius: 16px; box-shadow: 0 8px 24px rgba(0,0,0,0.35);"/></a>
+  <a href="https://codeigniter.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" width="84" height="84" alt="CodeIgniter" style="margin: 0 28px 20px; padding: 16px; background-color: #21262d; border: 1px solid #30363d; border-radius: 16px; box-shadow: 0 8px 24px rgba(0,0,0,0.35);"/></a>
   <a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="84" height="84" alt="Node.js" style="margin: 0 28px 20px;"/></a>
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=express&theme=dark" width="84" height="84" alt="Express" style="margin: 0 28px 20px;"/></a>
 </p>
@@ -137,7 +137,7 @@
 
 <br/><br/>
 
-<img height="180" src="https://github-readme-streak-stats.demolab.com/?user=Oshima-921&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub streak" />
+<img height="180" src="https://streak-stats.demolab.com/?user=Oshima-921&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub streak" />
 
 <br/><br/>
 
